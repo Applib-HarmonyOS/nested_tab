@@ -1,0 +1,33 @@
+<element name="ds_nested_tabs" src="../../../../../../node_modules/dS_nested_tabs/lib/dS_nest/ds_nest.hml"></element>
+<div class="container">
+    <ds_nested_tabs
+            img1='common/images/console.png'
+            img2='common/images/book-stack.png'
+            img3='common/images/music.png'
+            img4='common/images/video.png'
+            txt1= "Games"
+            txt2="Books"
+            txt3="Songs"
+            txt4="Video"
+            atxt1="Game1"
+            atxt2="Game2"
+            atxt3="Game3"
+            atxt4="Game4"
+
+            btxt1="Book1"
+            btxt2="Book2"
+            btxt3="Book3"
+            btxt4="Book4"
+
+            ctxt1="Song1"
+            ctxt2="Song2"
+            ctxt3="Song3"
+            ctxt4="Song4"
+
+            dtxt1="Video1"
+            dtxt2="Video2"
+            dtxt3="Video3"
+            dtxt4="Video4"
+            >
+    </ds_nested_tabs>
+</div>
