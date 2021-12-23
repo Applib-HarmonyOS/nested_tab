@@ -1,0 +1,39 @@
+.container {
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    flex:1;
+    margin-top:40px;
+}
+.tab_bar1{
+    flex-direction:column;
+    width: 80px;
+    font-size: 15px;
+    text-align: center;
+    height:100%;
+}
+.tab_bar{
+    flex-direction:column;
+    width: 120px;
+    font-size: 30px;
+    text-align: center;
+    height:100px;
+}
+.nested_div{
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    height: 100%;
+    width: 100%;
+}
+.tabs{
+    flex: 1;
+    margin-top:10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.timg{
+    height:40px;
+    width:70px;
+}
