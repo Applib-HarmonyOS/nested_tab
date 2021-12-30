@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "dS_nested_tabs": "file:../dS_nested_tabs"
+  }
+}
